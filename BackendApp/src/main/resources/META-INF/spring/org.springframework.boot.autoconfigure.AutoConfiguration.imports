@@ -1,0 +1,3 @@
+com.minatogithuborg.secrettestingtest.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithuborg.secrettestingtest.config.ApplicationTransactionManagersAutoConfig
+com.minatogithuborg.secrettestingtest.config.ApplicationProvidersAutoConfiguration
